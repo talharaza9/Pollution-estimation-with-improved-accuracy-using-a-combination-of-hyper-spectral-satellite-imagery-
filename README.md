@@ -1,6 +1,6 @@
 # Pollution estimation with improved accuracy using a combination of hyper spectral satellite imagery
 Pollution estimation with improved accuracy using a combination of hyper-spectral satellite imagery data and maps
-![image]('hack.png')
+![image]('images/hack.png')
 ## Problem Statement
 Hyper-spectral satellite images/data is given to extract important features to improve model along with open street map, which can be extracted for particular location using API. Problem of forecasting using satellite data only is that they are quite huge and sometimes it creates problem with respect to limited computation capacity. Challenge is to find a way to forecast feature using less satellite data and rely on other factors which are easily accessible and computational efficient. Ultimately aim is to develop a model where input will be time and location (latitude, longitude) and model gives forecasted NO2 value as output.
 ## Approach
